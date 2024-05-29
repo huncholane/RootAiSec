@@ -1,0 +1,10 @@
+django
+psycopg2-binary
+watchdog
+daphne
+gunicorn
+python-dotenv
+requests
+psutil
+llama-index
+django-vectordb[standard]
